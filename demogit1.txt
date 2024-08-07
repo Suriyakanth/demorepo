@@ -1,1 +1,2 @@
-Hello, Welcome to demogit1 text file
+Hello, Welcome to demogit1 text file.
+This is the modified file.
